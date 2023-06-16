@@ -11,6 +11,8 @@ for provided songs with a 0 for not like or a 1 for like.
 ## Resources
 
 - Dataset from Spotify API: This is the historical data on songs listened to and like reactions. Data includes song attributes. 
+- Language: Python 3
+- IDE: Jupyter Notebook
 
 ## Analysis
 
